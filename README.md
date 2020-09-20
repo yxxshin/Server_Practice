@@ -1,3 +1,6 @@
+# SOPT 26기 서버파트 자료들과 직접 끄적끄적해보는 자료들
+
+----------
 ## 26th_SERVER
 🖍 OUR SOPT - SERVER SMINAR SOURCE FILES  🖍
 
