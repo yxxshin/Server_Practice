@@ -1,4 +1,4 @@
-USE Sopt;
+USE SOPT;
 
 insert into user (name, password, email, phone) values ('Dietrich Bonsale', 'Cd90Gwp', 'dbonsale0@addtoany.com', '319-864-7251');
 insert into user (name, password, email, phone) values ('Kelsey Hubback', 'b5RyJXiQVV', 'khubback1@hibu.com', '155-269-6882');

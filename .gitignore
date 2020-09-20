@@ -112,3 +112,6 @@ config/
 upload/
 
 # End of https://www.gitignore.io/api/node
+
+# Database config file
+database.js
